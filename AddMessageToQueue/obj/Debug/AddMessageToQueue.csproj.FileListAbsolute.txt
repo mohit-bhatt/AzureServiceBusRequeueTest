@@ -1,0 +1,9 @@
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\bin\Debug\AddMessageToQueue.exe.config
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\bin\Debug\AddMessageToQueue.exe
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\bin\Debug\AddMessageToQueue.pdb
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\bin\Debug\Microsoft.ServiceBus.dll
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\obj\Debug\AddMessageToQueue.csprojAssemblyReference.cache
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\obj\Debug\AddMessageToQueue.csproj.CoreCompileInputs.cache
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\obj\Debug\AddMessageToQueue.csproj.CopyComplete
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\obj\Debug\AddMessageToQueue.exe
+C:\Mohit\Experiments\AzureServiceBusTest\AddMessageToQueue\obj\Debug\AddMessageToQueue.pdb
